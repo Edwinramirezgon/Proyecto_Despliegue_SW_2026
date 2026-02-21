@@ -7,7 +7,11 @@ manejo de ramas, automatización de procesos y buenas prácticas de despliegue d
 Integrantes
 
 #1 EDWIN RAMIREZ GONZALEZ
+
 #2 JUAN JOSE RUA DAVID
+
 #3 FELIPE OLAYA BENEITEZ
+
 #4 JULIAN ANDRES RAMIREZ BEDOYA
+
 #5 ARGENIS ALEJANDRO RUIZ COTES

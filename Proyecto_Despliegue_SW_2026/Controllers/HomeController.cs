@@ -19,7 +19,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
         [HttpGet("/hello")]
         public IActionResult Hello()
         {
-            return Content("Hello World desde la nueva funcionalidad");
+            return Content("Nuevo mensaje desde la corrección");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

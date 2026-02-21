@@ -16,10 +16,19 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
             return View();
         }
 
+        [HttpGet("/hello")]
+        public IActionResult Hello()
+        {
+            return Content("Hello World desde la nueva funcionalidad");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new ErrorViewModel
+            {
+                RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
+            });
         }
     }
 }

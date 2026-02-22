@@ -19,7 +19,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
         [HttpGet("/hello")]
         public IActionResult Hello()
         {
-            return Content("Nuevo mensaje desde la corrección");
+            return Content("MENSAJE MAL ESCRITOOOO ERRORR");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

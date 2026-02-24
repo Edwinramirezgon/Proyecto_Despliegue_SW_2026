@@ -1,6 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
 using Proyecto_Despliegue_SW_2026.Models;
-using System.Diagnostics;
 
 namespace Proyecto_Despliegue_SW_2026.Controllers
 {
@@ -19,7 +17,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
         [HttpGet("/hello")]
         public IActionResult Hello()
         {
-            return Content("Nuevo mensaje desde la corrección");
+            return Content("Nuevo mensaje desde la corrección conflicto rama desktop 2");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

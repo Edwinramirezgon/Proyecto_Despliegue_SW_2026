@@ -10,7 +10,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
         {
             return View();
         }
-        }
+
 
         public IActionResult Privacy()
         {
@@ -20,7 +20,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
         [HttpGet("/hello")]
         public IActionResult Hello()
         {
-            return Content("Nuevo mensaje desde la corrección, error merge git desktop");
+            return Content("Nuevo mensaje desde la corrección, error implemntacion");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

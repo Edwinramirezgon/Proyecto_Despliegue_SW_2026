@@ -9,6 +9,7 @@ namespace Proyecto_Despliegue_SW_2026.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();

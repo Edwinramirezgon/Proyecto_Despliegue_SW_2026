@@ -53,22 +53,22 @@ Integrantes
 ![12](images/12.png)
 
 
-![13](images/13.png)
+![13](images/13.jpeg)
 
 
-![14](images/14.png)
+![14](images/14.jpeg)
 
 
-![15](images/15.png)
+![15](images/15.jpeg)
 
 
-![16](images/16.png)
+![16](images/16.jpeg)
 
 
-![17](images/17.png)
+![17](images/17.jpeg)
 
 
-![18](images/18.png)
+![18](images/18.jpeg)
 
 
-![19](images/19.png)
+![19](images/19.jpeg)

@@ -71,4 +71,3 @@ Integrantes
 ![18](images/18.jpeg)
 
 
-![19](images/19.jpeg)
